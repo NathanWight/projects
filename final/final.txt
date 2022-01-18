@@ -1,0 +1,9 @@
+Nathan Wight
+1. I spent well over 6 hours working on my program this week because I didn’t have the time to complete 3 hours last week.
+2a pop_psi, get_data, get_x, get_y, get_temp, graph
+2b test_writer
+2c I read all the information they had on matplotlib.org after finding out that I did not need pandas to do what I wanted. I researched how to test functions without parameters, but I could not find anything that would work for me. I also had to look up the formula to convert Celsius into Fahrenheit. I read on pandas.pydata.org, about how to use graphs but went with matplotlib instead. As well has watched and skimmed through countless videos. I went back and forth from using a csv reader and writer to a plain text file. I wrote the first get_data function about 8 times before I was happy with what it did. I had issues with turning the strings in to float integers, so I had to place float function throughout the program.
+2d I finished plotting all of the correct data form the csv file as well as writing a function that populates the csv file with random numbers just to test the graphing part.
+
+
+
